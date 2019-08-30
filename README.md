@@ -8,7 +8,7 @@ Operating System : Linux (preffered Kali Linux) RAM : more than 1 GB Storage : B
 
 Software Requirements to Run this tool fluently in your system:
 
-Python3 should be installed in your system.if not then install by apt-get install python3 Import some packages in python. Terminal banner - pip3 install terminal-banner, Pyfiglet - pip3 install pyfiglet, PIL: pip3 install PIL
+Python3 should be installed in your system.if not then install by apt-get install python3 Import some packages in python. Terminal banner - pip3 install terminal-banner, Pyfiglet - pip3 install pyfiglet, PIL- pip3 install PIL
 
 How to run this tool :
 
