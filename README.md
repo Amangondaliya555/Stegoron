@@ -4,7 +4,7 @@ This tool is useful for steganography in png files.This tool is coded in python 
 
 Hardware Requirements to Run this tool fluently in your system:
 
-Operating System : Linux (preffered Kali Linux) RAM : more than 1 GB Storage : Bare Minimum Requirements
+Operating System : Linux 
 
 Software Requirements to Run this tool fluently in your system:
 
